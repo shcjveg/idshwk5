@@ -10,8 +10,6 @@ import math
 
 domainlist = []
 
-
-
 class Domain:
     def __init__(self, string, label=0):
         self.domainLength = len(string)
